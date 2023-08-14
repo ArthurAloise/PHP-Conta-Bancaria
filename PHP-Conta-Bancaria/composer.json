@@ -1,5 +1,5 @@
 {
-    "name": "lafraga93/php-oo-dio",
+    "name": "ArthurAloise/PHP-Conta-Bancaria",
     "description": "Projeto utilizado no curso de OO com PHP da DIO",
     "autoload": {
         "psr-4": {
@@ -8,8 +8,8 @@
     },
     "authors": [
         {
-            "name": "Gustavo Fraga",
-            "email": "gustavolafraga@gmail.com"
+            "name": "Arthur Aloise",
+            "email": "arthur.aloise@gmail.com"
         }
     ],
     "require": {}
